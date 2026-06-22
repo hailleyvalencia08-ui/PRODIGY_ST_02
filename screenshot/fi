@@ -1,0 +1,10 @@
+### Cart Issue on Safari
+![Cart Issue Safari](../screenshots/cart_issue_safari.png)
+
+**Observed Behavior:**
+- Item added to cart, but cart count does not update until page refresh.
+- Issue occurs specifically on Safari/iOS.
+
+**Recommendation:**
+- Implement AJAX refresh for cart updates.
+- Test across Safari desktop and mobile.
