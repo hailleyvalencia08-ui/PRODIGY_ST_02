@@ -22,7 +22,10 @@ To evaluate the demo e‑commerce website across multiple browsers (Chrome, Fire
 ### 2. Broken Links
 - **Contact Us page:** Link in footer redirects to a 404 error.  
 - **Social Media icons:** Instagram icon does not open any page.
-
+- Clicking the “Contact Us” link opens a blank page.
+- No redirection or content is displayed.
+- Indicates missing or incorrect URL mapping.
+  
 ### 3. Functionality Discrepancies
 - **Search Bar (Firefox):** Enter key does not trigger search; only clicking the button works.  
 - **Add to Cart (Safari Mobile):** Item added but cart count does not update until page refresh.  
