@@ -1,17 +1,26 @@
+# Task‑02: Compatibility Testing for Demo E‑Commerce Website
 
-# PRODiGY_ST_02 – Compatibility Testing
+## 🎯 Objective
+To test the demo e‑commerce website across multiple browsers (Chrome, Firefox, Safari, Edge) and devices (desktop, tablet, mobile) to ensure consistent layout, responsiveness, and functionality.
 
-**Internship Task**: Conduct compatibility testing for a demo e‑commerce website.  
-**Website URL**: [ShopLane Demo](https://shoplane-by-lassie.netlify.app/)  
+## 🔍 Scope
+- Layout checks (fonts, colors, alignment, responsiveness)
+- Broken links and navigation
+- Functionality (forms, cart, search bar, checkout)
+- Cross‑browser/device compatibility
 
-## Task Scope
-- Tested across Chrome, Firefox, Edge, Safari, and mobile devices.
-- Checked for layout issues, broken links, and functionality discrepancies.
-- Documented findings in `COMPATIBILITY_TEST.md`.
+## ⚙️ Tools Used
+- Browsers: Chrome, Firefox, Safari, Edge
+- Devices: Desktop, Tablet, Mobile
+- Documentation: Markdown
 
-## Deliverables
-- Compatibility report (Markdown format).
-- Screenshots of issues and successful test cases.
-- Recommendations for fixes.
+## 📂 Deliverables
+- TEST_CASES.md → Detailed test cases
+- docs/notes.md → Thought process
+- docs/report.md → Findings and defects
+- docs/enhancements.md → Suggested improvements
+- screenshots/ → Evidence of testing
 
 ---
+**Internship:** Prodigy InfoTech  
+**Intern:** [HAILLEY VALENCIA JG]  
