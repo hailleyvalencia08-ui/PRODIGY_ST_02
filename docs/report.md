@@ -50,6 +50,12 @@ Screenshots of layout overlaps, broken links, and cart issues are stored in the 
    - Validate dropdown population logic in checkout form.
 
 ---
+**Mobile Errors:**
+- Slow load times on Android/iOS devices.
+- Minor spacing and alignment issues on homepage.
+- Cart count not updating instantly on Safari/iOS.
+- Layout inconsistencies in portrait vs. landscape orientation.
+----
 
 ## 📌 Conclusion
 The demo e‑commerce website works well on most platforms but requires fixes for mobile responsiveness, broken links, and minor functionality discrepancies. Addressing these issues will improve user experience and ensure cross‑browser compatibility.
