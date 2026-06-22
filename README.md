@@ -11,11 +11,11 @@ To test the demo e‑commerce website across multiple browsers (Chrome, Firefox,
 
 ## ⚙️ Tools Used
 - Browsers: Chrome, Firefox, Safari, Edge
-- Devices: Desktop, Tablet, Mobile
+- Devices: Desktop, Mobile
 - Documentation: Markdown
 
 ## 📂 Deliverables
-- TEST_CASES.md → Detailed test cases
+- COMPATABILI_TEST.md → Detailed test cases
 - docs/notes.md → Thought process
 - docs/report.md → Findings and defects
 - docs/enhancements.md → Suggested improvements
