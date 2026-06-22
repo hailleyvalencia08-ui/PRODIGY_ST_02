@@ -1,7 +1,6 @@
 # Compatibility Testing Report – ShopLane Demo Website
 
-**Website URL**: [https://shoplane-by-lassie.netlify.app](https://shoplane-by-lassie.netlify.app)  
-
+**Website URL**: [https://shoplane-by-lassie.netlify.app](https://shoplane-by-lassie.netlify.app) 
 ---
 
 ## 🎯 Objective
