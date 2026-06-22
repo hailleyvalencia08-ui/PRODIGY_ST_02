@@ -15,7 +15,7 @@ To test the demo e‑commerce website across multiple browsers (Chrome, Firefox,
 - Documentation: Markdown
 
 ## 📂 Deliverables
-- COMPATABILI_TEST.md → Detailed test cases
+- COMPATABILITY_TEST.md → Detailed test cases
 - docs/notes.md → Thought process
 - docs/report.md → Findings and defects
 - docs/enhancements.md → Suggested improvements
